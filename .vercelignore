@@ -1,0 +1,13 @@
+# Materiais locais não são necessários para o build nem para a hospedagem.
+/referências/
+/referencias/
+/diagnostics/
+/.sites-runtime/
+/.wrangler/
+/.vinext/
+/.next/
+/dist/
+/outputs/
+/work/
+/.agents/
+/.codex/
